@@ -36,6 +36,28 @@ These tools can be installed either under Termux or TermuxArch.
 * Jupyter - Termux
 * Gradle - TermuxArch
 
+## Useful Fun Tools and Commands
+
+* proxychains - https://github.com/kuburan/kuburan.github.io
+* tor
+* x11-packages - wireshark, etc - https://github.com/termux/x11-packages/
+* Kali Linux - https://github.com/Hax4us/Nethunter-In-Termux
+* VNC Viewer - https://play.google.com/store/apps/details?id=com.realvnc.viewer.android
+* apt install 
+    * sl
+    * cowsay
+    * figlet
+    * toilet
+    * printenv
+    * cmatrix
+    * fish
+    * w3m
+* echo $HOSTTYPE or "uname -m"
+* strace
+* od
+* fortune
+* factor
+
 
 
 
