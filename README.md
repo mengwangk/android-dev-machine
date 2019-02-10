@@ -42,6 +42,7 @@ These tools can be installed either under Termux or TermuxArch.
 * tor
 * x11-packages - wireshark, etc - https://github.com/termux/x11-packages/
 * Kali Linux - https://github.com/Hax4us/Nethunter-In-Termux
+* Metasploit - https://wiki.termux.com/wiki/Metasploit_Framework
 * VNC Viewer - https://play.google.com/store/apps/details?id=com.realvnc.viewer.android
 * apt install 
     * sl
